@@ -1,1 +1,1 @@
-# eri-chain
+# Eri-Chain
